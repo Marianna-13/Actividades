@@ -42,6 +42,7 @@ Los otros tigres no lo dejaron terminar de hablar, se abalanzaron sobre el, le m
 # extraer=texto[336:356]
 # print(extraer)
 
+
 #Desafio de numeros
 # nombre_equipos=input("Ingresa el nombre de los equipos de futbol: ")
 # equipo1=int(input("Cuantos puntos tiene el primer equipo?: "))
@@ -51,6 +52,7 @@ Los otros tigres no lo dejaron terminar de hablar, se abalanzaron sobre el, le m
 # equipo5=int(input("Cuantos puntos tiene el quinto equipo?: "))
 # operacion=(equipo1+equipo2+equipo3+equipo4+equipo5)/3
 # print(f"El promedio de los puntos de los equipos es {operacion}")
+
 
 #Desafio 2
 # a=("versatil")

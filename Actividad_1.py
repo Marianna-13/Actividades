@@ -1,4 +1,4 @@
-#Tallervariables y strings
+#Taller variables y strings
 #1
 #nombre=input("ingresa tu nombre: ")
 #print(nombre)
